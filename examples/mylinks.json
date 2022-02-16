@@ -1,0 +1,22 @@
+[
+    {
+        "text": "best website ever",
+        "fa icon": "trophy",
+        "url": "https://www.theworldsworstwebsiteever.com"
+    },
+    {
+        "text": "docs",
+        "fa icon": "python",
+        "url": "https://docs.python.org",
+        "button width": "400",
+        "color": "ForestGreen",
+        "hovered color": "Green",
+        "fontsize": "55"
+    },
+    {
+        "text": "Bingo",
+        "fa icon": "chess-board",
+        "url": "https://bingo.bourneuf.net",
+        "color": "Grey"
+    }
+]

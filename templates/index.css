@@ -1,0 +1,29 @@
+ /* Style buttons */
+.btn {
+  background-color: {{button_color}}; /* Blue background */
+  border: none; /* Remove borders */
+  color: white; /* White text */
+  margin: 20px;
+  width: {{button_width}}px;
+  height: {{button_height}}px;
+  font-size: 25px; /* Set a font size */
+  cursor: pointer; /* Mouse pointer on hover */
+}
+
+/* Darker background on mouse-over */
+.btn:hover {
+  background-color: {{hover_button_color}};
+} 
+
+
+
+/* Vertical and horizontal centering */
+
+.center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
